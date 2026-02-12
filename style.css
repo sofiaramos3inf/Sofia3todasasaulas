@@ -5,6 +5,10 @@ body{
 
 img{
     width: 80px;
+    transition: transform 0.3s ease;
+}
+img:hover {
+    transform: translateY(-10px);
 }
 
 .containermaioral{
