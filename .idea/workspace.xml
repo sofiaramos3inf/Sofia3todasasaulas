@@ -13,9 +13,29 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sofiaramos3inf&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sofiaramos3inf/Sofia3todasasaulas.git&quot;,
+    &quot;accountId&quot;: &quot;a73976cc-9391-4003-869b-8673f4268c11&quot;
+  }
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -31,9 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "PHP Script.conexão.php.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/9394239/Documents/GitHub/Sofia3todasasaulas",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,6 +65,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\9394239\Documents\GitHub\Sofia3todasasaulas\aulinhasPHP\includes" />
+      <recent name="C:\Users\9394239\Documents\GitHub\Sofia3todasasaulas\aulinhasPHP" />
+      <recent name="C:\Users\9394239\Documents\GitHub\Sofia3todasasaulas\site1.0" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +92,9 @@
       <workItem from="1771952561341" duration="155000" />
       <workItem from="1772015553965" duration="659000" />
       <workItem from="1772459360304" duration="5212000" />
+      <workItem from="1777295027114" duration="181000" />
+      <workItem from="1777295220414" duration="17000" />
+      <workItem from="1777480092459" duration="1290000" />
     </task>
     <servers />
   </component>
