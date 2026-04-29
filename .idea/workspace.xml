@@ -94,11 +94,15 @@
       <workItem from="1772459360304" duration="5212000" />
       <workItem from="1777295027114" duration="181000" />
       <workItem from="1777295220414" duration="17000" />
-      <workItem from="1777480092459" duration="1290000" />
+      <workItem from="1777480092459" duration="1594000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="utf" />
+    <option name="LAST_COMMIT_MESSAGE" value="utf" />
   </component>
 </project>
